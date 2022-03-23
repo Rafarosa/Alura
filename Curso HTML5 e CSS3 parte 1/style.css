@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(128, 128, 128);
+}
+
+p {
+    text-align: center;
+}
+
+em {
+    font-size: 20px ;
+}
+
+h1 {
+    text-align: center;
+}
+
+em strong {
+    color: rgb(255, 0, 0)
+}
+
