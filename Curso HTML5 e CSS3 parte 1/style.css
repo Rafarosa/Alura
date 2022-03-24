@@ -1,9 +1,12 @@
-body {
-    background-color: rgb(128, 128, 128);
-}
+/*body {}*/
 
 #banner {
     width: 100%;
+}
+
+.principal {
+    background-color: gray;
+    padding: 30px;
 }
 
 h1 {
@@ -19,6 +22,31 @@ p {
 }
 
 em strong {
-    color: rgb(255, 0, 0)
+    color: rgb(255, 0, 0);
 }
 
+.itens {
+    font-style: italic;
+
+}
+
+.beneficios{
+    background-color: white;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+
+.imagembenefisioc{
+    width: 50%;
+}
