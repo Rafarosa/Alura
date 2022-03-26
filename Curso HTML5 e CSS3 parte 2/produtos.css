@@ -74,3 +74,16 @@ nav a:hover {
     font-weight: bold;
     margin-top: 10px;
 }
+
+footer{
+    text-align: center;
+    background: url(./produtos/bg.jpg);
+    padding: 40px 0; 
+}
+
+.copyright {
+    color: white;
+    font: size 15px;
+    margin-top: 15px;
+    
+}
