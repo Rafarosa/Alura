@@ -206,6 +206,13 @@ td, th{
 
 .imagem-beneficios {
     width: 60%;
+    opacity: 01;
+    transition: 400ms;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}
+
+.imagem-beneficios:hover{
+    opacity: 0.3;
 }
 
 .itens::before{
