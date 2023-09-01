@@ -14,3 +14,12 @@ const objPersonagem = {
 console.log(objPersonagem);
 
 delete objPersonagem.aliado
+
+console.log(objPersonagem.aliado);
+
+// Também é possível utilizar a notação de colchetes:
+
+delete objPersonagem["status"]
+
+console.log(objPersonagem.aliado) //undefined
+console.log(objPersonagem.status) //undefined
