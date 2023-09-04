@@ -1,3 +1,16 @@
 {
-    "workbench.panel.defaultLocation": "bottom"
+    "workbench.panel.defaultLocation": "bottom",
+    "editor.fontSize": 16,
+    "pythonPreview.codeFooterDocs.fontSize": 16,
+    "pythonPreview.fontSize": 16,
+    "pythonPreview.legend.fontSize": 16,
+    "pythonPreview.printOutputDocs.fontSize": 16,
+    "pythonPreview.retVal.fontSize": 16,
+    "pythonPreview.stackAndHeapHeader.fontSize": 16,
+    "pythonPreview.stackFrame.fontSize": 16,
+    "pythonPreview.stackFrameHeader.fontSize": 16,
+    "pythonPreview.typeLabel.fontSize": 16,
+    "scm.inputFontSize": 16,
+    "debug.console.fontSize": 16,
+    "screencastMode.fontSize": 56
 }
